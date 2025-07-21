@@ -1,0 +1,35 @@
+
+# Node.js
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor de VSCode
+.vscode/
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+*.swp
+
+# Logs generales
+logs/
+*.log
+
+# Entorno de ejecución
+*.pid
+*.seed
+*.tgz
+
+# Coverage (si en el futuro usas pruebas)
+coverage/
+
+# Otros
+.env.local
+.env.development
+.env.test
+.env.production
